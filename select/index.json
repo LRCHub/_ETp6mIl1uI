@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "CHOPPY CHOPPY",
+  "base_artist": "PRODUCE 101 JAPAN THE GIRLS",
+  "createdAt": "2026-03-10T06:27:23.740308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHOPPY CHOPPY",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": true,
+      "path": "select/01_CHOPPY_CHOPPY_PRODUCE_101_JAPAN_THE_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHOPPY CHOPPY",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": false,
+      "path": "select/02_CHOPPY_CHOPPY_PRODUCE_101_JAPAN_THE_GIRLS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CHOPPY CHOPPY (ME:I Ver.)",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/03_CHOPPY_CHOPPY_(ME_I_Ver.)_ME_I.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHOPPY CHOPPY",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": false,
+      "path": "select/pl_01_CHOPPY_CHOPPY_PRODUCE_101_JAPAN_THE_GIRLS.txt"
+    }
+  ]
+}
